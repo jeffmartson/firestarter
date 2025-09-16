@@ -17,7 +17,7 @@
     "@fal-ai/client": "^1.4.0",
     "@hookform/resolvers": "^5.0.1",
     "@langchain/core": "^0.3.57",
-    "@langchain/langgraph": "^0.2.74",
+    "@langchain/langgraph": "^0.4.6",
     "@langchain/openai": "^0.5.11",
     "@mendable/firecrawl-js": "^1.25.1",
     "@openai/agents": "^0.0.1",
