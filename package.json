@@ -16,7 +16,7 @@
     "@ai-sdk/openai-compatible": "^0.2.14",
     "@fal-ai/client": "^1.4.0",
     "@hookform/resolvers": "^5.0.1",
-    "@langchain/core": "^0.3.57",
+    "@langchain/core": "^0.3.80",
     "@langchain/langgraph": "^0.2.74",
     "@langchain/openai": "^0.5.11",
     "@mendable/firecrawl-js": "^1.25.1",
